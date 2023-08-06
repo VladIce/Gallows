@@ -1,4 +1,4 @@
-#Gallows
+# Gallows
 Игра «Виселица». Простая лингвистическая игра по угадыванию слов, реализованная на языке Java, в консольном интерфейсе.
 
 Техническое задание проекта: https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/
